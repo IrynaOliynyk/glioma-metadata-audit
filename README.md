@@ -21,6 +21,8 @@ The provided Python script performs:
 2. **Phase Normalization:** A regex-based engine that classifies over-specified narrative entries into standard FDA phases (0-IV).
 3. **Translational Mapping:** Categorizes trials into four quadrants (Interventional, Observational, Patient Registries, Expanded Access).
 4. **Statistical Auditing:** Calculates the *Reporting Gap (RG)* and *Maturity Ratio (MR)*.
+   <img width="1294" height="660" alt="image" src="https://github.com/user-attachments/assets/02b6c5df-7da4-4589-a67d-9638d4a5fb65" />
+
 
 ## How to Run
 1. Download `glioma_who_3.01.2026.xlsx` from the Zenodo link above (https://zenodo.org/records/18430433).
