@@ -33,4 +33,4 @@ The provided Python script performs:
 
 ## Citation
 If you use this code or dataset, please cite:
-Oliynyk, I. (2026). Dataset for: Clinical registry metadata as a hidden bottleneck in AI-driven drug discovery. Zenodo. https://doi.org/10.5281/zenodo.18430433
+Oliynyk, I. (2026). glioma-metadata-audit: Computational audit of WHO ICTRP glioma clinical trial metadata (v1.0.0). GitHub. https://github.com/IrynaOliynyk/glioma-metadata-audit. DOI: 10.5281/zenodo.18430433
