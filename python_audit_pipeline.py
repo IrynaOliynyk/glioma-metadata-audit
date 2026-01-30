@@ -12,7 +12,7 @@ import pandas as pd
 # Place the downloaded file 'glioma_who_3.01.2026.xlsx' in the same directory as this script.
 import pandas as pd
 
-file_path = r'C:\Users\User\Documents\STUPP_2.xlsx'
+file_path = r'glioma_who_3.01.2026.xlsx'
 
 # Data Ingestion (N = 2357 records)
 # keep_default_na=False is critical to preserve semantic markers like "N/A"
@@ -503,4 +503,5 @@ for quad in ['Q1', 'Q2']:
         for i, title in enumerate(unique_titles[:100], 1):  # Let's watch all 21
             print(f"  {i}. {title[:1550]}...")
     else:
+
         print("  No records found.")
